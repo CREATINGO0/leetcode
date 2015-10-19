@@ -1,3 +1,0 @@
-bool canWinNim(int n) {
-    
-}
